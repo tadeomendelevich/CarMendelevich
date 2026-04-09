@@ -25,7 +25,7 @@ Este proyecto consiste en el desarrollo de un vehículo autónomo capaz de:
 
 El sistema implementa múltiples modos de operación controlados por una máquina de estados y utiliza diversos sensores para la percepción del entorno.
 
-El código base está documentado en :contentReference[oaicite:0]{index=0}.
+El código base está documentado en :main.cpp
 
 ---
 
