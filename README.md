@@ -130,5 +130,36 @@ El sistema está dividido en tareas:
 ---
 
 ## 📡 Protocolo de comunicación
+Soporta comandos como:
+- ALIVE
+- FIRMWARE
+- SENSOR DATA
+- CONTROL DE MOTORES
+- CONTROL DE SERVO
 
-Formato de trama:
+---
+
+## 🧪 Desafíos técnicos
+
+- Sincronización de múltiples tareas en tiempo real  
+- Manejo de interrupciones (sensores + comunicación)  
+- Diseño de máquina de estados compleja  
+- Control preciso de motores y servo  
+- Integración de múltiples sensores  
+
+---
+
+## 🎯 Objetivo académico
+
+Este proyecto fue desarrollado como parte de la materia **Computación 3**, con el objetivo de integrar:
+
+- Sistemas embebidos
+- Control de hardware
+- Comunicación
+- Algoritmos de navegación autónoma
+
+---
+
+## 👨‍💻 Autor
+
+Tadeo Mendelevich  
