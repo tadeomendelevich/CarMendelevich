@@ -8,7 +8,7 @@ Sistema embebido desarrollado en C/C++ sobre plataforma mbed para un vehículo a
 
 ---
 
-## 📸 Vista del sistema
+## 📸 Vista del sistema, versión 2 del auto mejorada
 
 <p align="center">
   <img src="setup.png" width="700"/>
